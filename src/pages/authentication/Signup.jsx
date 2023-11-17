@@ -16,7 +16,7 @@ const Signup = () => {
       <div className="flex items-center justify-center gap-[2.5rem]">
         <div className="self-start">
           <hgroup className="mb-[3.31rem]">
-            <Head1>Sign Up to </Head1>
+            <Head1>Sign Up For </Head1>
             <Head2>AMORSER FMS</Head2>
           </hgroup>
           <div className="">

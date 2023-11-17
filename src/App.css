@@ -1,0 +1,4 @@
+.ppp1{
+    @apply text-white text-base not-italic font-medium leading-[normal];
+    font-family: Poppins;
+}
